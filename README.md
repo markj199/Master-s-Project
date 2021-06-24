@@ -1,2 +1,2 @@
-# Master-s-Project
+# Masters-Project
 Master's Project in which I analyzed educational data using machine learning techniques
